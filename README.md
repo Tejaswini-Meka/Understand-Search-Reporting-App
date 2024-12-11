@@ -6,6 +6,7 @@
   -**Dark mode**</br>
   -**Search assistance**</br>
   -**Search history**</br>
+  -**Global Banner**</br>
 
 ### Line numbering
 Shows numbers next to each line in the search syntax.</br>
@@ -34,4 +35,8 @@ Go to user profile --> Preferences --> SPL Editor --> Enable Advanced Editor -->
 ### Search history
 Under search tab we can see the "Search History".</br>
 Whatever the searches we have done from that application will be available on that app "Search History"
+
+### Global Banner
+Go to Settings --> Server Settings --> Global Banner
+
 
